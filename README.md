@@ -175,8 +175,8 @@ lib/
 
 ## 👨‍💻 Author
 
-**Team 2**  
-Contact email: **datlecong156@gmail.com**
+**Nguyen Duc Hung**  
+Contact email: **vannek1100@gmail.com**
 
 ---
 
